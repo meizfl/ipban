@@ -1,5 +1,0 @@
-[ipv4_routes]
-routes = ["198.51.100.0/24"]
-
-[ipv6_routes]
-routes = ["2001:db8::/32"]

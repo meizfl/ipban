@@ -1,5 +1,8 @@
 [ipv4_routes]
-routes = ["198.51.100.0/24"]
+routes = ["192.0.2.0/24"]
 
 [ipv6_routes]
 routes = ["2001:db8::/32"]
+
+[asn_block]
+as_numbers = ["AS1234"]

@@ -6,7 +6,7 @@ SRC = ipban.c
 
 # Компилятор и флаги
 C= clang
-LDFLAGS = -static
+LDFLAGS = -lcurl
 
 # Путь к файлу info.toml
 INFO_FILE = info.toml
